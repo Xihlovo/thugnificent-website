@@ -1,0 +1,89 @@
+﻿Here is the full website copy for your Thugnificent artist website, tailored to the early 2010s aesthetic and written entirely in the voice of the character.
+I’ve structured this exactly like your Figma sitemap.
+
+🏠 Page 1: Home
+Navbar
+    • Logo: [ THUGNIFICENT ]
+    • Links: Home | Music | About | Tour | Contact
+Hero
+    • Headline: THUGNIFICENT IS BACK, BABY!
+    • Sub-headline: The king of Terra-Belle returns to reclaim his throne. The swagger is unmatched. The statues are polished. The album is dropping. Y'all better recognize the realest in the game.
+    • CTA Button: [ Pre-Order the Album ]
+Mission
+    • Header: The Mission
+    • Copy: They thought I was done. They thought Thugnificent was just a memory. Nah, homey, I'm just getting started. I'm here to bring real hip-hop back to the streets. I'm talking about that "Booty Butt Cheeks" energy that made the whole world bounce. I'm bringing back the Lethal Interjection Crew, I'm bringing back the gold, and I'm bringing back the funk. We about to show the industry how the broke niggas really live.
+Product — current release
+    • Header: The New Single
+    • Image: [ Cover art for "Dick Riding Obama" or "Booty Butt Cheeks" ]
+    • Copy: The anthem for the people! I recorded this with will.i.am and it's already making waves. They tried to censor me, but you can't silence the truth. This is the track that's gonna save the world—or at least my record sales.
+    • CTA Button: [ Stream on SoundCloud ]
+Partners
+    • Header: My Sponsors & Partners
+    • Logos:
+        ◦ [ Terra-Belle Luxury Real Estate ]
+        ◦ [ Macktastic's Mixtape Co. ]
+        ◦ [ The Lethal Interjection Crew ]
+        ◦ [ Local Medical Marijuana Dispensary ]
+Footer
+    • Copy: © 2012 Thugnificent / Otis Jenkins. All rights reserved. Powered by MySpace & Tumblr. Contact: management@thugnificent.com.
+
+🎵 Page 2: Music
+Navbar
+    • (Same as Home)
+Music
+    • Header: Discography
+    • Grid/List:
+        ◦ Album 1: Booty Butt Cheeks (The Classic that started it all)
+        ◦ Album 2: Rags to Bitches (The Rise of the King)
+        ◦ Mixtape: Hip Hop Dock-Trine 2 (The official mixtape)
+        ◦ Single: Dick Riding Obama (The Political Anthem)
+        ◦ Single: Eff Grandad (The diss track that started a war)
+Gallery / Visual Evidence
+    • Header: Visual Evidence (The Proof)
+    • Image Grid:
+        ◦ [ Photo of Thugnificent’s white-and-gold mansion ]
+        ◦ [ Photo of the Greek God statues of himself in the front yard ]
+        ◦ [ Photo of the painting of himself above MLK and Tupac ]
+        ◦ [ Behind-the-scenes photo of him shaving his afro puffs ]
+Footer
+    • (Same as Home)
+
+📖 Page 3: About
+Navbar
+    • (Same as Home)
+Case Study / Outcome Showcase
+    • Header: The Legend of Otis Jenkins
+    • The Bio: Born and raised in Terra-Belle, Georgia, Otis Jenkins (born November 1, 1978) rose to fame as Thugnificent. I took the industry by storm with my smash club anthem "Booty Butt Cheeks." The whole world knew my name. I had a white-and-gold mansion, statues of myself that mirrored the Ancient Greek gods, and a painting of myself standing above Martin Luther King, Malcolm X, Tupac, and Biggie. Yeah, it was that serious.
+    • The Struggle: But the industry is fickle. My record sales started to decline, and before I knew it, the bank was knocking on my door. I went from driving Lambos to driving a delivery truck. But I didn't stay down. I'm a man with a bachelor's degree in Communication! I'm a musical genius—even if I can't read. And I'm a firm critic of the pharmaceutical industry; a little bit of high-quality weed is better than any pill they can sell you.
+    • The Comeback: Now, I'm back. I'm shaving the afro puffs, I'm getting the Lethal Interjection Crew back together (shoutout Macktastic and Flonominal), and I'm about to make the biggest comeback in hip-hop history. Reality show? Maybe. But the music? That's forever.
+Footer
+    • (Same as Home)
+
+🗺️ Page 4: Tour
+Navbar
+    • (Same as Home)
+Tours
+    • Header: Tour Dates
+    • List/Table:
+        ◦ Date: Nov 1st, 2012 | City: Atlanta, GA | Venue: The Local Community Center
+        ◦ Date: Nov 5th, 2012 | City: Terra-Belle, GA | Venue: Woodcrest Elementary (Charity Event)
+        ◦ Date: Nov 12th, 2012 | City: New York, NY | Venue: The Apollo (If they'll let me)
+        ◦ Note: "No Grandads allowed at the shows. Security will be checking IDs."
+Maps/Location
+    • Header: Where to find me
+    • Copy: The Mansion (It might be foreclosed, but I'll be out front signing autographs).
+    • Map: [ Embed Google Map of Woodcrest neighborhood ]
+    • Text:
+Footer
+    • (Same as Home)
+
+🎨 Early 2010s Design Notes for Your Figma File
+Since you are designing this in Figma, keep these elements in mind to capture that 2010s aesthetic:
+    • Fonts: Use Comic Sans or Impact for headings. For body text, use Arial or Times New Roman.
+    • Colors: Stick to gold, black, white, and maybe a bright, obnoxious red or blue for accents.
+    • Gradients: Use linear gradients on buttons and headers (like a gloss effect).
+    • Shadows: Add drop shadows to all images and text boxes.
+    • Borders: Use thick, 3D-style borders on images (like a picture frame).
+    • Animated GIFs: Use a spinning "Under Construction" sign or a blinking "New!" icon next to the music tab.
+Need me to adjust the tone? Let me know if you want it to sound even more egotistical or more like a "behind-the-scenes" documentary. Good luck with the Figma design! 🍕🎤
+
